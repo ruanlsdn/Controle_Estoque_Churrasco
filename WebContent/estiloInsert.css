@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+.titulo{
+	height: 60px;
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+.container{
+	margin-top: 30px;
+	
+}
+
+.insert{
+	display: flex;
+	margin-top: 30px;
+	margin-left: 200px;
+	width: 700px;
+
+}
+.btnCadastrar{
+	margin-top: 15px;
+	margin-left: 285px;
+	margin-bottom: 10px;
+}
+
+.inputInsert{
+	width: 700px;
+}
+
+.listar{
+	margin-left: 500px;
+}

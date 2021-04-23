@@ -1,0 +1,51 @@
+@charset "ISO-8859-1";
+
+.container {
+	margin-top: 25px;
+}
+
+.titulo {
+	height: 60px;
+	text-align: left;
+	background-color: black;
+	color: white;
+	margin-right: 1035px;
+}
+
+.header {
+	display: inline block;
+	height: 60px;
+	display: flex;
+	background-color: black;
+}
+
+.botaoDrop {
+	text-align: center;
+	margin-top: 10px;
+	height: 40px;
+	color: white;
+	background-color: black;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.update {
+	display: flex;
+	margin-top: 30px;
+	margin-left: 200px;
+	width: 700px;
+}
+
+.btnAtualizar {
+	margin-top: 15px;
+	margin-left: 285px;
+	margin-bottom: 10px;
+}
+
+.inputUpdate {
+	width: 700px;
+}
+
+.listar {
+	margin-left: 500px;
+}

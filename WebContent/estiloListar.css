@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+.pesquisar{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.titulo{
+	height: 60px;
+	text-align: left;
+	background-color: black;
+	color: white;
+	margin-right: 1035px;
+}
+
+.header{
+	display: inline block;
+	height: 60px;
+	display:flex;
+	background-color: black;
+}
+.botaoDrop{
+	text-align: center;
+	margin-top: 10px;
+	height: 40px;
+	color: white;
+	background-color: black;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.refresh{
+	text-align: center;
+	align-self: center;
+}
+
+.inputPesquisa{
+	width: 330px;
+	height: 35px;
+	margin-top: 10px;
+	margin-left: 520px;
+	margin-bottom: 10px;
+}
+
+.listar {
+	width: 800px;
+	text-align: center;
+	margin: 0;
+	margin-left: 300px;
+}
